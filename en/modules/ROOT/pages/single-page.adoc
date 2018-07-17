@@ -4,7 +4,7 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 = {doctitle}
 
-// (1/4) CHANGE TOC POSITION AND LEVELS, IF NEEDED. ALSO :sectnums:
+// (1/3) CHANGE TOC POSITION AND LEVELS, IF NEEDED. ALSO :sectnums:
 ifndef::env-site,env-github[]
 :toc: left
 endif::[]
@@ -30,20 +30,12 @@ include::{partialsdir}/CONTRIBUTING.adoc[tag=contents]
 <<<
 
 :leveloffset: +1
-// (2/4) ADD BELOW THE LIST OF *UNNUMBERED* (e.g. PREAMBLE) CHAPTERS OR
+// (2/3) ADD BELOW THE LIST OF *UNNUMBERED* (e.g. PREAMBLE) CHAPTERS OR
 // SECTIONS. IMPORTANT: PUT A BLANK LINE BETWEEN INCLUDES.
 
 
 :sectnums:
-// (3/4) ADD BELOW THE LIST OF REGULAR CHAPTERS OR SECTIONS. IMPORTANT: PUT A
+// (3/3) ADD BELOW THE LIST OF REGULAR CHAPTERS OR SECTIONS. IMPORTANT: PUT A
 // BLANK LINE BETWEEN INCLUDES.
 
 include::introduction.adoc[]
-
-
-[appendix]
-// (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
-// INCLUDES.
-
-
-:leveloffset: -1
