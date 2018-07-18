@@ -1,5 +1,8 @@
 = Introduction
+:experimental:
+:icons: font
 :page-partial:
+:source-highlighter: highlightjs
 
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
