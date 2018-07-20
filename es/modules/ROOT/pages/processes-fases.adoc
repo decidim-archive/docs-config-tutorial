@@ -1,0 +1,20 @@
+=== Fases
+
+Se prevé que un proceso siga los siguientes pasos:
+
+* _Informar y convocar a la ciudadanía._
+
+* _Generar un diagnóstico._
+
+* _Generar propuestas._
+
+* _Seleccionar propuestas (votarlas o apoyarlas)._
+
+* _Publicar en informar de los resultados._
+
+* _Evaluar el proceso participativo._
+* _Generar un seguimiento de las actividades y acciones._
+
+Las fases del caso de estudio, sumándole la "fase 0" de planificación y diseño del mismo (que no se mostraría, pero es importante tener en cuenta), son las que podríamos enumerar en un proceso participativo. La fase de evaluación del proceso, aunque no es la toma de decisiones en sí del proceso que estamos lanzando, va a generar información muy valiosa de cara a seguir generando procesos y mejorando los sistemas participativos.
+
+En la cabecera a la derecha están las fases, si cliqueas en ver todas las fases puedes ver la información que se muestra.
