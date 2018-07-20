@@ -1,0 +1,39 @@
+= Introducción
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+== EL PROCESO
+=== Apartado de Información
+
+- Entra en el Tablero de administración de la herramienta (Es necesario haber iniciado sesión).
+
+image::processes-info-01.png[]
+
+- Haz clic en *Procesos*​, en el Panel de Control, y posteriormente en *NUEVO PROCESO*. Al entrar en el proceso, te llevará directamente a la pestaña de Información General donde se deben rellenar los campos necesarios (los campos con asterisco son obligatorios). 
+Una vez rellenada la Información General, clicka *Crear*.
+
+image::processes-info-02.png[]
+_Cabe recordar que, en caso de que la plataforma
+esté en dos idiomas o más, hay que completar la información en los diferentes idiomas)_
+
+- Verás un listado de procesos. Entra en el que has creado. Puedes entrar tanto clicando en el título, como en el icono del lápiz (configurar).
+
+image::processes-info-03.png[]
+_El icono del ojo te lleva a previsualizar el proceso. Si te das cuenta, el estado aparece en rojo "no publicado". Esto es, que aún no es accesible para los participantes. Con el icono del clipboard podrás duplicar el proceso._
+
+Cuando termines de modificar y probar, tienes dos botones: *Actualizar* y *Publicar*. El primero guarda la información, el segundo hace accesible el proceso en la plataforma. Como administrador en tu propia plataforma, tendrás también la opción de *Borrar*.
+
+Los procesos se han de publicar una vez estén completamente creados, con todos los elementos y componentes necesarios; ya que estos se pueden activar y desactivar por fases como veremos en el siguiente paso. También es importante haber definido previamente las fechas del proceso y las fechas en las fases.
+
+
+
+
