@@ -1,3 +1,17 @@
+= Introduction
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+
 === Fases
 
 Se prevé que un proceso siga los siguientes pasos:
@@ -17,4 +31,6 @@ Se prevé que un proceso siga los siguientes pasos:
 
 Las fases del caso de estudio, sumándole la "fase 0" de planificación y diseño del mismo (que no se mostraría, pero es importante tener en cuenta), son las que podríamos enumerar en un proceso participativo. La fase de evaluación del proceso, aunque no es la toma de decisiones en sí del proceso que estamos lanzando, va a generar información muy valiosa de cara a seguir generando procesos y mejorando los sistemas participativos.
 
-En la cabecera a la derecha están las fases, si cliqueas en ver todas las fases puedes ver la información que se muestra.
+Para crear las fases del proceso accede en el panel de administrador y desde el menu procesos selecciona la pestaña fases del proceso y clica en el botón *NUEVA FASE*.
+
+image::crear-fases-01.png[]
