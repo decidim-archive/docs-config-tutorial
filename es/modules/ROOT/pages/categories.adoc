@@ -1,0 +1,26 @@
+= Introduction
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+
+Para organizar tanto los debates como las propuestas que vamosa recoger, hemos decidido organizar un conjunto de categorias que nos sirvan para nuestro proceso y que respondan a lo que queremos recoger. +
+Para configurar las categorías hay que ir al panel de administrador y seleccionar la pestaña categorías del proceso en cuestión y clicar en el botón *NUEVO CATEGORÍA*
+
+image::crear-categorias-01.png[]
+
+Se abre una ventana como la siguiente, donde se han de rellenar los campos que pide y nos permite también crear subcategorías.
+
+image::crear-categorias-02.png[]
+
+Una vez rellenados los campos y creadas las categorías tendríamos algo parecido a esto:
+
+image::crear-categorias-03.png[]
