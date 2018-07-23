@@ -1,0 +1,35 @@
+= Introducción
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+=== Encuentro Presencial
+
+- Para añadir los actos o encuentros presenciales hay que configurar el componente *Encuentros*. ​En el desplegable AGREGAR COMPONENTE, selecciona ENCUENTROS
+
+image::processes-meetings-01.png[]
+
+- Ponle un nombre que te parezca apropiado y dejar los otros campos como están. Abajo de la página, clica en el botón "agregar componente".
+
+image::processes-meetings-02.png[]
+
+- Aparecerás de nuevo en la ventana anterior con el componente *encuentros* creado, donde tienes varias opciones o "acciones" mediante los botones que tienes a la derecha: Gestionar (lápiz), publicar (check), configurar (rueda), permisos (llave) y borrar (x).
+
+image::processes-meetings-03.png[]
+
+- Configurar corresponde a la ventana anterior: es el espacio donde configurar el componente en sí: puedes cambiar el nombre, escribir avisos y habilitar y deshabilitar comentarios, tanto en general, como por fases.
+Vamos a Gestionar (lápiz) para crear el encuentro o los encuentros. +
+Clica en *NUEVO ENCUENTRO* y rellena los apartados con asterisco. Es necesario que la dirección sea real porque geolocaliza el encuentro y ofrece un mapa exacto de dónde es. El campo "Ubicación" se refiere al nombre concreto del lugar o edificio. Por ejemplo "Fàbrica de Creació Fabra i Coats". Clica en el botón de crear. +
+Ya tienes tu primer encuentro.
+
+image::processes-meetings-04.png[]
+
+_En el encuentro tienes una serie de "acciones" para ejecutar, puedes ver sus utilidades pasando el cursor por encima de cada una de ellas._
