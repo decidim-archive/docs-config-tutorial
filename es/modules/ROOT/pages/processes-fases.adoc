@@ -34,3 +34,17 @@ Las fases del caso de estudio, sumándole la "fase 0" de planificación y diseñ
 Para crear las fases del proceso accede en el panel de administrador y desde el menu procesos selecciona la pestaña fases del proceso y clica en el botón *NUEVA FASE*.
 
 image::crear-fases-01.png[]
+
+Se abre una ventana donde hay que rellenar una serie de campos cada vez que se cree una fase.
+
+image::crear-fases-02.png[]
+
+Una vez creadas las fases se ve lo siguiente en el panel de administrador:
+
+image::crear-fases-03.png[]
+
+El marcador verde señalado en la primera fase nos indica que es la fase activa del proceso, para indicar que fase ha de ser la activa a medida que el proceso avanza solo hay que clicar en el botón señalado en el recuadro rojo de la fase pertinente.
+
+La fase activa se ve de la siguiente forma en la página del proceso:
+
+image::crear-fases-04.png[]
