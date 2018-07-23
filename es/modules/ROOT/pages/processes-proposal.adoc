@@ -1,0 +1,29 @@
+= Introducción
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+=== Componente de propuestas
+
+- Agrega un nuevo componente: propuestas.
+
+image::processes-proposal-01.png[]
+
+- Una vez creado rellena los campos y habilita respuesta oficial a propuestas habilitadas y propuestas oficiales habilitadas. + 
+Además, verás que tienes la posibilidad de configurar cada fase.
+
+image::processes-proposal-02.png[]
+
+- Clica en *Agregar componente* para guardarla. Y ahora, desde el menú *Componentes*, publícala.
+
+image::processes-proposal-03.png[]
+
+Siempre puedes volver a terminar de generar avisos a través de configuración.  Una vez se ha activado esta funcionalidad y haya comenzado la fase de propuestas no se ha de desactivar en ningún momento del proceso. Para garantizar la transparencia y trazabilidad del mismo.
