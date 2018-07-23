@@ -27,3 +27,35 @@ image::processes-proposal-02.png[]
 image::processes-proposal-03.png[]
 
 Siempre puedes volver a terminar de generar avisos a través de configuración.  Una vez se ha activado esta funcionalidad y haya comenzado la fase de propuestas no se ha de desactivar en ningún momento del proceso. Para garantizar la transparencia y trazabilidad del mismo.
+
+=== Creación de propuestas
+
+- Accede al espacio de la plataforma clicando en el nombre del componente "Propuestas".
+
+image::processes-proposal-04.png[]
+
+- Probablemente tengas una pantalla similar a la siguiente. En la que no puedes crear propuestas. +
+Fíjate en qué fase estás (arriba a la derecha), si has desactivado la creación de propuestas en las fases previas, y no has cambiado de fase, estará desactivada la creación. Así es como se mostrará.
+
+image::processes-proposal-05.png[]
+
+- Entra de nuevo en el tablero de administración y activa la fase de Propuestas (Fase 3). Una vez estés en la fase correcta, podrás acceder al espacio y generar las propuestas. (Si tienes dudas, puedes volver al apartado _Fases_). +
+Si estás en la fase correcta y aún así no puedes hacer propuestas, revisa en configurar la funcionalidad para ver si está activada "Habilitar creación de propuestas" en la fase correspondiente.
+
+image::processes-proposal-06.png[]
+
+- Crea una Nueva Propuesta desde el tablero de administración.
+
+image::processes-proposal-08.png[]
+
+- Crea una Nueva Propuesta como participante.
+
+image::processes-proposal-09.png[]
+
+Ejemplo:
+
+image::processes-proposal-07.png[]
+
+
+
+
