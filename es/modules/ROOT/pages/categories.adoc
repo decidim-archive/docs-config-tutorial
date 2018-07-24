@@ -12,8 +12,20 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
-Para organizar tanto los debates como las propuestas que vamosa recoger, hemos decidido organizar un conjunto de categorias que nos sirvan para nuestro proceso y que respondan a lo que queremos recoger. +
-Para configurar las categorías hay que ir al panel de administrador y seleccionar la pestaña categorías del proceso en cuestión y clicar en el botón *NUEVO CATEGORÍA*
+.Categorías
+****
+Son una herramienta para organizar tanto los debates como las propuestas que se van a recoger.
+
+IMPORTANT: Es esencial que haya categorías para poder iniciar un proceso.
+****
+
+btn:[Nueva Categoría]
+
+menu:Procesos[Categorías, Cosas]
+
+
+Para organizar tanto los debates como las propuestas que vamos a recoger, hemos decidido organizar un conjunto de categorias que nos sirvan para nuestro proceso y que respondan a lo que queremos recoger. +
+Para configurar las categorías hay que ir al panel de administrador y seleccionar la pestaña categorías del proceso en cuestión y clicar en el botón *NUEVO CATEGORÍA*.
 
 image::crear-categorias-01.png[]
 
