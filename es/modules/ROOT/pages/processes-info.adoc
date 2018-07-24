@@ -11,6 +11,9 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
+
+Aquí aprenderás a crear, configurar y publicar un proceso.
+
 == Primeros pasos
 
 * Inicia sesión.
@@ -24,14 +27,14 @@ image::processes-info-02.png[]
 +
 IMPORTANT: Los campos con asterisco son obligatorios.
 +
-IMPORTANT: Cabe recordar que, en caso de que la plataforma esté en dos idiomas o más, hay que completar la información en los diferentes idiomas).
+IMPORTANT: En caso de que la plataforma esté en dos idiomas o más, hay que completar la información en los diferentes idiomas.
 
 * Clica btn:[Crear].
 
 * Entra en el proceso que has creado.
 +
 TIP: Puedes entrar tanto clicando en el título, como en el icono del lápiz (configurar).
-
++
 image::processes-info-03.png[]
 TIP: El icono del ojo te lleva a previsualizar el proceso. Si te das cuenta, el estado aparece en rojo "no publicado". Esto es, que aún no es accesible para los participantes. Con el icono del clipboard podrás duplicar el proceso.
 

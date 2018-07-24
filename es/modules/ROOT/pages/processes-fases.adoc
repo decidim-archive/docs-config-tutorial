@@ -1,4 +1,4 @@
-= Introduction
+= Fases del proceso
 :experimental:
 :icons: font
 :page-partial:
@@ -12,39 +12,35 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
-=== Fases
+.Fases de un proceso:
+****
+* Informar y convocar a la ciudadanía.
+* Generar un diagnóstico.
+* Generar propuestas.
+* Seleccionar propuestas (votarlas o apoyarlas).
+* Publicar e informar de los resultados.
+* Evaluar el proceso participativo.
+* Generar un seguimiento de las actividades y acciones.
+****
 
-Se prevé que un proceso siga los siguientes pasos:
+NOTE: Las fases, sumándole la "fase 0" de planificación y diseño del mismo (que no se mostraría, pero es importante tener en cuenta), son las que podríamos enumerar en un proceso participativo.
 
-* _Informar y convocar a la ciudadanía._
+* Entra en el tablero de administración.
 
-* _Generar un diagnóstico._
-
-* _Generar propuestas._
-
-* _Seleccionar propuestas (votarlas o apoyarlas)._
-
-* _Publicar en informar de los resultados._
-
-* _Evaluar el proceso participativo._
-* _Generar un seguimiento de las actividades y acciones._
-
-Las fases del caso de estudio, sumándole la "fase 0" de planificación y diseño del mismo (que no se mostraría, pero es importante tener en cuenta), son las que podríamos enumerar en un proceso participativo. La fase de evaluación del proceso, aunque no es la toma de decisiones en sí del proceso que estamos lanzando, va a generar información muy valiosa de cara a seguir generando procesos y mejorando los sistemas participativos.
-
-Para crear las fases del proceso accede en el panel de administrador y desde el menu procesos selecciona la pestaña fases del proceso y clica en el botón *NUEVA FASE*.
-
+* En el menú menu:Procesos[Fases del proceso] clica btn:[NUEVA FASE]
++
 image::crear-fases-01.png[]
 
-Se abre una ventana donde hay que rellenar una serie de campos cada vez que se cree una fase.
-
+* Rellena los campos.
++
 image::crear-fases-02.png[]
 
-Una vez creadas las fases se ve lo siguiente en el panel de administrador:
-
+* Activa la fase correspondiente.
++
 image::crear-fases-03.png[]
++
+IMPORTANT: El marcador verde señalado en la primera fase nos indica que es la fase activa del proceso, para indicar que fase ha de ser la activa a medida que el proceso avanza solo hay que clicar en el botón señalado en el recuadro rojo de la fase pertinente.
 
-El marcador verde señalado en la primera fase nos indica que es la fase activa del proceso, para indicar que fase ha de ser la activa a medida que el proceso avanza solo hay que clicar en el botón señalado en el recuadro rojo de la fase pertinente.
-
-La fase activa se ve de la siguiente forma en la página del proceso:
-
+* La fase activa se ve de la siguiente forma en la página del proceso:
++
 image::crear-fases-04.png[]
