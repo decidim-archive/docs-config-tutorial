@@ -1,0 +1,21 @@
+= Introduction
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+=== Resultados
+
+- Vamos a Componentes (Procesos > Componentes) y clicamos en Agregar componente. Seleccionamos de la lista disponible: Seguimiento.
+
+image::processes-results-01.png[]
+
+_Podemos dejar los campos como están. En un proceso real, puede ser interesante dejar los comentarios habilitados en general; y deshabilitarlos en las fases en las que no tengan sentido. Bajamos y clicamos en el botón "Añadir funcionalidad"_
+
