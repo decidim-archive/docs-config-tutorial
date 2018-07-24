@@ -56,6 +56,19 @@ Ejemplo:
 
 image::processes-proposal-07.png[]
 
+=== Selección de propuestas
+
+- Activa la fase 4: Selección de propuestas y activa *Votación habilitada* para poder votar las propuestas.
+
+image::processes-proposal-10.png[]
+
+- Entrando en la página desde el punto de vista de participante, clicka la propuesta a la que quieras dar apoyo y vota, puedes cambiar de opinión hasta que termine el plazo de votación
+
+image::processes-proposal-11.png[]
+
+
+
+
 
 
 
