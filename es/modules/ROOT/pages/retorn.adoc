@@ -28,3 +28,7 @@ Al responder puedes *aceptar* la propuesta, *rechazarla* o dejarla en estado de 
 En este tutorial se ha aceptado la propuesta con más votos, desde el panel de administrador la ventana se ve así:
 
 image::retorno-03.png[]
+
+Desde la página, tal y como lo ven los usuarios, la web se ve así:
+
+image::retorno-04.png[]
