@@ -1,4 +1,4 @@
-= Introduction
+= Categorías
 :experimental:
 :icons: font
 :page-partial:
@@ -14,25 +14,23 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 .Categorías
 ****
-Son una herramienta para organizar tanto los debates como las propuestas que se van a recoger.
+Es una herramienta para organizar tanto los debates como las propuestas que se van a recoger.
 
 IMPORTANT: Es esencial que haya categorías para poder iniciar un proceso.
 ****
 
-btn:[Nueva Categoría]
+* Accede al panel de administrador.
 
-menu:Procesos[Categorías, Cosas]
-
-
-Para organizar tanto los debates como las propuestas que vamos a recoger, hemos decidido organizar un conjunto de categorias que nos sirvan para nuestro proceso y que respondan a lo que queremos recoger. +
-Para configurar las categorías hay que ir al panel de administrador y seleccionar la pestaña categorías del proceso en cuestión y clicar en el botón *NUEVO CATEGORÍA*.
-
+* menu:Procesos[Categorías] btn:[NUEVO CATEGORÍA]
++
 image::crear-categorias-01.png[]
 
-Se abre una ventana como la siguiente, donde se han de rellenar los campos que pide y nos permite también crear subcategorías.
-
+* Rellena los campos
++
 image::crear-categorias-02.png[]
 
-Una vez rellenados los campos y creadas las categorías tendríamos algo parecido a esto:
+TIP: También puedes crear subcategorías.
 
+* Una vez rellenados los campos y creadas las categorías tendríamos algo parecido a esto:
++
 image::crear-categorias-03.png[]
