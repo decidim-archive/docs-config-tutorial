@@ -21,7 +21,7 @@ IMPORTANT: Es esencial que haya categorías para poder iniciar un proceso.
 
 * Accede al panel de administrador.
 
-* menu:Procesos[Categorías] btn:[NUEVO CATEGORÍA]
+* En el menú menu:Procesos[Categorías] btn:[NUEVO CATEGORÍA]
 +
 image::crear-categorias-01.png[]
 
