@@ -30,6 +30,6 @@ IMPORTANT: Al responder puedes *aceptar* la propuesta, *rechazarla* o dejarla en
 +
 image::retorno-03.png[]
 
-* Desde la plataforma, tal y como lo ven los usuarios, la web se ve así:
+* Desde la plataforma, tal y como lo ven los usuarios, se ve así:
 +
 image::retorno-04.png[]
