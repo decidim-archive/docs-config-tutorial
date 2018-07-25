@@ -29,3 +29,6 @@ image::processes-meetings-03.png[]
 IMPORTANT: Es necesario que la dirección sea real porque geolocaliza el encuentro y ofrece un mapa exacto de dónde es. El campo "Ubicación" se refiere al nombre concreto del lugar o edificio. Por ejemplo "Fàbrica de Creació Fabra i Coats". 
 
 image::processes-meetings-04.png[]
+
+TIP: En el encuentro tienes una serie de "acciones" para ejecutar si es necesario:
+Previsualizar, duplicar, editar, inscripciones, acta, orden del día, cerrar, carpetas, archivos adjuntos, permisos y borrar.
