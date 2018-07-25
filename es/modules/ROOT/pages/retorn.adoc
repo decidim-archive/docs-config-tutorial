@@ -1,4 +1,4 @@
-= Introduction
+= Retorno
 :experimental:
 :icons: font
 :page-partial:
@@ -11,24 +11,25 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
+.Retorno
+****
+La fase de Retorno es la fase final de proceso de toma de decisiones, aunque no del proceso participativo. En esta fase se verifican las propuestas más votadas.
+****
 
-La fase de Retorno es la fase final de proceso de toma de decisiones, aunque no del proceso participativo. +
-Quizá parte de las propuestas seleccionadas y con más votos, tengan que, o ser evaluadas por técnicos o pasar a otros órganos decisorios; quizá otras tengamos que rechazarlas directamente porque no se ajusten a la convocatoria.
-
-Tanto para aceptar o rechazar las propuestas hay que abrir el panel de administrador y clicar en la pestaña de propuestas dentro del proceso participativo. Se abre una ventana como esta:
-
+* Abrir menu:Proceso[Propuestas] en el panel de administrador
++
 image::retorno-01.png[]
 
-Desde esta ventana puedes responder utilizando el segundo botón de acciones.
-
+* Clicar el botón btn:[Responer] de la propuesta pertinente.
++
 image::retorno-02.png[]
 
-Al responder puedes *aceptar* la propuesta, *rechazarla* o dejarla en estado de *evaluación* utilizando los botones señalados, también hay un espacio para poder redactar una respuesta.
+IMPORTANT: Al responder puedes *aceptar* la propuesta, *rechazarla* o dejarla en estado de *evaluación* utilizando los botones señalados, también hay un espacio para poder redactar una respuesta.
 
-En este tutorial se ha aceptado la propuesta con más votos, desde el panel de administrador la ventana se ve así:
-
+* En este tutorial se ha aceptado la propuesta con más votos.
++
 image::retorno-03.png[]
 
-Desde la página, tal y como lo ven los usuarios, la web se ve así:
-
+* Desde la plataforma, tal y como lo ven los usuarios, la web se ve así:
++
 image::retorno-04.png[]
