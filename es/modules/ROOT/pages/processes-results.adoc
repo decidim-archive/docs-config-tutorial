@@ -1,4 +1,4 @@
-= Introduction
+= Resultados
 :experimental:
 :icons: font
 :page-partial:
@@ -11,11 +11,25 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-=== Resultados
+.Seguimiento
+****
+Activa resultados como administrador e importa las propuestas admitidas.
+****
 
-- Vamos a Componentes (Procesos > Componentes) y clicamos en Agregar componente. Seleccionamos de la lista disponible: Seguimiento.
-
+* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[SEGUIMIENTO]]
++
 image::processes-results-01.png[]
 
-_Podemos dejar los campos como están. En un proceso real, puede ser interesante dejar los comentarios habilitados en general; y deshabilitarlos en las fases en las que no tengan sentido. Bajamos y clicamos en el botón "Añadir funcionalidad"_
+* Rellena los campos y "agrega componente".
 
+* Pasamos a gestionar el componente recién creado (lápiz) y generamos, en este ejemplo, cuatro btn:[NUEVO/A RESULTADO]
++
+image::processes-results-02.png[]
+
+* Una vez generados los Resultados, desde el menú menu:Procesos[Componentes] clica en el botón btn:[Publicar].
++
+image::processes-results-03.png[]
+
+TIP: Si vas a la pantalla desde el punto de vista del participante, podrás encontrar la siguiente imagen y navegar por ella.
+
+image::processes-results-04.png[]
