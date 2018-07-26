@@ -1,0 +1,51 @@
+= Asambleas
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+.Asambleas u Órganos
+****
+Las Asambleas es un espacio que ofrece la posibilidad de constituir órganos o grupos de decisión que se reúnen periódicamente, detallando su composición, listando y geolocalizando sus reuniones, y permitiendo la participación en las mismas.
+****
+
+* Inicia sesión.
+* Entra en el Tablero de administración.
+* En el menú menu:Asambleas[] clica btn:[NUEVA ASAMBLEA].
++
+image::assemblies-01.png[]
+
+* Rellena los campos y "crea".
+
+* Mediante los botones que tienes a la derecha podrás: Duplicar (clipboard), configurar (lápiz), asambleas (dial) y previsualizar (ojo).
+
+* Desde el menú menu:Asambleas[] clica en el botón btn:[Configurar].
++
+image::assemblies-02.png[]
+
+* Revisa los campos.
+
+** Clica en el botón btn:[Actualizar] para guardar la información.
+
+** Clica en el botón btn:[Publicar] para publicar la asamblea.
+
+** Clica en el botón btn:[Borrar] para eliminar la asamblea.
++
+image::assemblies-03.png[]
+
+* Para añadir componentes a la asamblea ve al menú menu:Asambleas[Componentes] y haz clic en el desplegable btn:[AGREGAR COMPONENTE].
++
+image::assemblies-04.png[] 
++
+NOTE: Los componentes se configuran de la misma manera que en los procesos.
+
+
+
+
