@@ -5,7 +5,7 @@
 * xref:contributing.adoc[Criterios de autoría y como participar en este documento]
 
 .Contenidos
-* Processes
+* Procesos
 ** xref:processes-info.adoc[Nuevo proceso]
 ** xref:processes-stages.adoc[Fases del proceso]
 ** xref:processes-meetings.adoc[Encuentro presencial]
