@@ -1,4 +1,4 @@
-= Retorno
+= Valoración de propuestas
 :experimental:
 :icons: font
 :page-partial:
@@ -11,9 +11,9 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-.Retorno
+.Valoración de propuestas
 ****
-La fase de Retorno es la fase final de proceso de toma de decisiones, aunque no del proceso participativo. En esta fase se verifican las propuestas más votadas.
+La fase de valoración es la fase final de proceso de toma de decisiones, aunque no del proceso participativo. En esta fase se verifican las propuestas más votadas.
 ****
 
 * Abrir menu:Proceso[Propuestas] en el panel de administrador

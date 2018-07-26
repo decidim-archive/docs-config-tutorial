@@ -5,12 +5,17 @@
 * xref:contributing.adoc[Criterios de autoría y como participar en este documento]
 
 .Contenidos
-* xref:introduction.adoc[Introducción]
-* Segunda sección
-** Subsección A
-** Subsección B
-* Tercera sección
+* Processes
+** xref:processes-info.adoc[Nuevo proceso]
+** xref:processes-stages.adoc[Fases del proceso]
+** xref:processes-meetings.adoc[Encuentro presencial]
+** xref:processes-categories.adoc[Categorías]
+** xref:processes-proposal.adoc[Propuestas]
+** xref:processes-proposal-assessment.adoc[Valoración de propuestas]
+** xref:processes-accountability.adoc[Seguimiento]
+* Asambleas
+** xref:assemblies.adoc[Asambleas]
 
-.Otros formatos
-* xref:single-page.adoc[Página única (HTML)]
-* [.pdf-download-button]#PDF#
+// .Otros formatos
+// * xref:single-page.adoc[Página única (HTML)]
+// * [.pdf-download-button]#PDF#

@@ -1,4 +1,4 @@
-= Resultados
+= Seguimiento
 :experimental:
 :icons: font
 :page-partial:

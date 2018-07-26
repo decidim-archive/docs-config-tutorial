@@ -1,4 +1,4 @@
-= Encuentro Presencial
+= Encuentro presencial
 :experimental:
 :icons: font
 :page-partial:
