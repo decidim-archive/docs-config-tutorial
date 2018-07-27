@@ -20,7 +20,7 @@ Crea y configura la funcionalidad de Propuestas. Crea propuestas como administra
 +
 image::processes-proposal-01.png[]
 
-* Rellena los campos y habilita respuesta oficial a propuestas habilitadas y propuestas oficiales habilitadas. + 
+* Rellena los campos y habilita respuesta oficial a propuestas habilitadas y propuestas oficiales habilitadas. +
 +
 image::processes-proposal-02.png[]
 
@@ -51,7 +51,7 @@ image::processes-proposal-05.png[]
 
 * Accede al panel de administrador.
 
-* Desde el menú menu:Procesos[Fases del proceso] activa la fase de Creación de Propuestas. 
+* Desde el menú menu:Procesos[Fases del proceso] activa la fase de Creación de Propuestas.
 
 TIP: Una vez estés en la fase correcta podrás acceder al espacio y generar las propuestas. (Si tienes dudas, puedes volver al apartado _Fases_). +
 Si estás en la fase correcta y aún así no puedes hacer propuestas, revisa en configurar la funcionalidad para ver si está activada "Habilitar creación de propuestas" en la fase correspondiente.
