@@ -17,7 +17,7 @@ Las Asambleas es un espacio que ofrece la posibilidad de constituir órganos o g
 ****
 
 * Inicia sesión.
-* Entra en el Tablero de administración.
+* Entra en el menu:Tablero de administración[].
 * En el menú menu:Asambleas[] clica btn:[NUEVA ASAMBLEA].
 +
 image::assemblies-01.png[]
@@ -42,7 +42,7 @@ image::assemblies-03.png[]
 
 * Para añadir componentes a la asamblea ve al menú menu:Asambleas[Componentes] y haz clic en el desplegable btn:[AGREGAR COMPONENTE].
 +
-image::assemblies-04.png[] 
+image::assemblies-04.png[]
 +
 NOTE: Los componentes se configuran de la misma manera que en los procesos.
 

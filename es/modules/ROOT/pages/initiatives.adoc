@@ -1,0 +1,57 @@
+= Iniciativas
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+
+.Iniciativas
+****
+Las iniciativas son instrumentos o
+mecanismos de participación promovidos por la ciudadanía.
+****
+
+* Entra en el menu:Tablero de Administración[Iniciativas, Tipos de iniciativa] y clica en el botón btn:[NUEVO TIPO DE INICIATIVA].
++
+image::initiatives-01.png[]
+
+* Rellena los campos y btn:[Crea].
++
+NOTE: Los tipos de iniciativa son una herramienta previa a la creación de iniciativas que permite clasificarlas.
+
+* Una vez creada se abre una ventana con la información que acabas de crear en la que debes especificar el número de firmas que se requieren.
+
+* Clica en el botón btn:[NUEVO ALCANCE DEL TIPO DE INICIATIVA] y rellena los campos.
++
+image::initiatives-02.png[]
+
+NOTE: A partir de este punto el administrador ha de hacer seguimiento de las iniciativas hechas por los usuarios.
+
+* Entra en el menu:Tablero de Administración[Iniciativas] y clica en btn:[Iniciativas].
+
+* Clica en la iniciativa correspondiente.
++
+image::initiatives-03.png[]
+
+* Clica en menu:Miembros de la comisión[] para invitar a los miembros que participarán en el comisionado de la iniciativa.
++
+image::initiatives-04.png[]
+
+TIP: Puedes configurar los componentes de la iniciativa de la misma manera que los componentes de procesos.
+
+* Entra en el menu:Tablero de Administración[Iniciativas] y clica en btn:[Iniciativas].
+
+* Clica en la iniciativa correspondiente para hacer el seguimiento de esta.
+
+* En el apartado de información aparecen los siguientes botones: btn:[Actualizar], btn:[Enviar a validación técnica] y btn:[Soportes de exportación].
++
+image::initiatives-05.png[]
++
+IMPORTANT: En caso de que el comité de la iniciativa ya la haya validado, aparecerá el botón btn:[Publicar]. El comité también tiene la opción btn:[Descartar la iniciativa]. En caso de que la iniciativa ya esté publicada aparecerá el botón btn:[Despublicar].
