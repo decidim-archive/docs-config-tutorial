@@ -89,7 +89,7 @@ image::processes-proposal-10.png[]
 +
 image::processes-proposal-12.png[]
 
-* Para dar apoyo a nivel usario dirigete a la plataforma. Ve a menu:Propuestas[] y clica en el botón btn:[DAR APOYO].
+* Para dar apoyo a nivel usuario dirígete a la plataforma. Ve a menu:Propuestas[] y clica en el botón btn:[DAR APOYO].
 +
 image::processes-proposal-11.png[]
 

@@ -20,7 +20,7 @@ La fase de valoración es la fase final de proceso de toma de decisiones, aunque
 +
 image::retorno-01.png[]
 
-* Clicar el botón btn:[Responer] de la propuesta pertinente.
+* Clica el botón btn:[Responer] de la propuesta pertinente.
 +
 image::retorno-02.png[]
 

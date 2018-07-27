@@ -39,7 +39,7 @@ image::crear-fases-02.png[]
 +
 image::crear-fases-03.png[]
 +
-IMPORTANT: El marcador verde señalado en la primera fase nos indica que es la fase activa del proceso, para indicar que fase ha de ser la activa a medida que el proceso avanza solo hay que clicar en el botón señalado en el recuadro rojo de la fase pertinente.
+IMPORTANT: El marcador verde señalado en la primera fase nos indica que es la fase activa del proceso, para indicar que fase ha de ser la activa a medida que el proceso avanza clica en el botón señalado en el recuadro rojo de la fase pertinente.
 
 * La fase activa se ve de la siguiente forma en la página del proceso:
 +
