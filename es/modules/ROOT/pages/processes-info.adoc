@@ -1,4 +1,4 @@
-= Nuevo proceso
+= Proceso Participativo
 :experimental:
 :icons: font
 :page-partial:
@@ -12,7 +12,11 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
+.Proceso
+****
+Un proceso participativo es un espacio de participación dividido en fases que puede incorporar diferentes componentes. +
 Aquí aprenderás a crear, configurar y publicar un proceso.
+****
 
 == Primeros pasos
 

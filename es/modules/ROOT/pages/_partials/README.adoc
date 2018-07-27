@@ -8,7 +8,7 @@ include::attributes.adoc[]
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Tutorial Admin Decidim
 
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
@@ -25,7 +25,7 @@ include::attributes.adoc[]
 
 // MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
-:authors: Decidim Team
+:authors: Mariola Ruiz, Joan Olivé, Guillem Marpons
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -58,7 +58,7 @@ include::attributes.adoc[]
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
 // {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
-:_citation: {authors}, {docyear}, {doctitle}
+:_citation: {docyear}, {doctitle}
 
 // MANDATORY. Copyright ownership.
 :_copyleft: Ajuntament de Barcelona y personas autoras del texto
