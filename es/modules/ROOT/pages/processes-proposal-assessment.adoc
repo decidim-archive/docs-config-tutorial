@@ -16,7 +16,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 La fase de valoración es la fase final de proceso de toma de decisiones, aunque no del proceso participativo. En esta fase se verifican las propuestas más votadas.
 ****
 
-* Abrir menu:Proceso[Propuestas] en el panel de administrador
+* Abrir menu:Proceso[Propuestas] en el panel de administrador.
 +
 image::retorno-01.png[]
 

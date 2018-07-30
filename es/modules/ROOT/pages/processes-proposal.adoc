@@ -16,7 +16,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 Crea y configura la funcionalidad de Propuestas. Crea propuestas como administrador.
 ****
 
-* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[PROPUESTAS]]
+* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[PROPUESTAS]].
 +
 image::processes-proposal-01.png[]
 
@@ -58,13 +58,13 @@ Si estás en la fase correcta y aún así no puedes hacer propuestas, revisa en 
 
 image::processes-proposal-06.png[]
 
-* Para crear una Nueva Propuesta desde el tablero de administración ve al menú menu:Procesos[Propuestas] y clica en el botón btn:[NUEVA PROPUESTA]
+* Para crear una Nueva Propuesta desde el tablero de administración ve al menú menu:Procesos[Propuestas] y clica en el botón btn:[NUEVA PROPUESTA].
 
 * Rellena los campos.
 +
 image::processes-proposal-08.png[]
 
-* Para crear una Nueva Propuesta como participante, desde la plataforma, entra en menu:Propuestas[] y clica en el botón btn:[Nueva propuesta +]
+* Para crear una Nueva Propuesta como participante, desde la plataforma, entra en menu:Propuestas[] y clica en el botón btn:[Nueva propuesta +].
 +
 image::processes-proposal-09.png[]
 
@@ -85,7 +85,7 @@ Vota una o varias de las propuestas.
 +
 image::processes-proposal-10.png[]
 
-* Publica las propuestas clicando en el botón btn:[Publicar]
+* Publica las propuestas clicando en el botón btn:[Publicar].
 +
 image::processes-proposal-12.png[]
 
