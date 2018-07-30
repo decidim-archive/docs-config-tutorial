@@ -16,13 +16,13 @@ include::{partialsdir}/README.adoc[tag=metadata]
 Activa resultados como administrador e importa las propuestas admitidas.
 ****
 
-* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[SEGUIMIENTO]]
+* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[SEGUIMIENTO]].
 +
 image::processes-results-01.png[]
 
 * Rellena los campos y "agrega componente".
 
-* Pasamos a gestionar el componente recién creado (lápiz) y generamos, en este ejemplo, cuatro btn:[NUEVO/A RESULTADO]
+* Pasamos a gestionar el componente recién creado (lápiz) y generamos, en este ejemplo, cuatro btn:[NUEVO/A RESULTADO].
 +
 image::processes-results-02.png[]
 
