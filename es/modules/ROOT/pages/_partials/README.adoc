@@ -4,11 +4,11 @@ include::attributes.adoc[]
 
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url:
+:_public_repo_url: https://github.com/decidim/docs-config-tutorial.git
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle: Tutorial Admin Decidim
+:doctitle: Guía de inicio para la administración de Decidim
 
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
@@ -25,7 +25,7 @@ include::attributes.adoc[]
 
 // MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
-:authors: Mariola Ruiz, Joan Olivé, Guillem Marpons
+:authors: Mariola Ruiz, Joan Olivé
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -33,11 +33,11 @@ include::attributes.adoc[]
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Núria Alonso, María Becedas
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_proofreaders:
+:_proofreaders: Juan Linares, Guillem Marpons
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -45,20 +45,20 @@ include::attributes.adoc[]
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: Este documento es una guía práctica para configurar una instancia de Decidim con los elementos básicos para que sea operativa, incluyendo: procesos, asambleas e iniciativas. No pretende ser una referencia exhaustiva de todas las funcionalidades de Decidim y no incluye la instalación del software.
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones
+:keywords: decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones, administración, guía de inicio
 
 // OPTIONAL. Document's history.
-:_dochistory:
+:_dochistory: Inicialmente María Becedas, de Ethicoo, impartió un curso de administración de Decidim. Núria Alonso adaptó los materiales del curso inicial para un curso impartido a municipios de la Diputación de Barcelona. Finalmente Mariola Ruiz y Joan Olivé reescribieron los materiales en Asciidoc y con capturas de pantalla actualizadas.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
 // {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
-:_citation: {docyear}, {doctitle}
+:_citation: {authors} ({docyear}), {doctitle}, v{revnumber}
 
 // MANDATORY. Copyright ownership.
 :_copyleft: Ajuntament de Barcelona y personas autoras del texto
