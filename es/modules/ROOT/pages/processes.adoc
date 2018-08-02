@@ -1,0 +1,31 @@
+= Procesos
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Start writing here
+
+:leveloffset: +1
+
+include::processes-info.adoc[]
+
+include::processes-stages.adoc[]
+
+include::processes-meetings.adoc[]
+
+include::processes-categories.adoc[]
+
+include::processes-proposal.adoc[]
+
+include::processes-proposal-assessment.adoc[]
+
+include::processes-accountability.adoc[]
+
+:leveloffset: -1

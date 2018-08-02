@@ -42,3 +42,9 @@ include::{partialsdir}/CONTRIBUTING.adoc[tag=contents]
 // BLANK LINE BETWEEN INCLUDES.
 
 include::introduction.adoc[]
+
+include::processes.adoc[]
+
+include::assemblies.adoc[]
+
+include::initiatives.adoc[]

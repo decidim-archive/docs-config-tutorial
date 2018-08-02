@@ -11,3 +11,15 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
+
+Para seguir esta guía necesitas tener una instancia de Decidim instalada y acceso de administración a la misma.
+Si no dispones ya de una instancia y quieres crearte una propia, puedes seguir https://github.com/Platoniq/decidim-install[la guía de instalación contribuida por Platoniq].
+
+Este tutorial te permitirá tener una instancia de Decidim con los elementos básicos para ser operativa configurados.
+Esto incluye la creación de:
+
+* Procesos
+* Asambleas
+* Iniciativas
+
+Para explorar el resto de funcionalidades de Decidim te remitimos al https://decidim.org/pdf/Decidim_AdminManual_ES_0.10.pdf[Manual de administración].

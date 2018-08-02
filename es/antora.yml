@@ -7,7 +7,7 @@ name: config-tutorial
 # menus and navigation links. It's probably the same as README.adoc's
 # {doctitle} attribute.
 # Example: "My Awesome Document" (quotes not needed)
-title: Tutorial de configuración básica
+title: Tutorial de configuración
 
 # MANDATORY. "en", "es" or "ca". If more than one revision of the document is
 # going to be shown, then append the revision as it appears in README.adoc's
@@ -18,7 +18,7 @@ version: es
 # It must be "ROOT:" followed by a file present in modules/ROOT/pages/. See
 # https://docs.antora.org/antora/1.0/page/page-id/ to understand how Antora's
 # Page Ids work.
-start_page: ROOT:processes-info.adoc
+start_page: ROOT:introduction.adoc
 
 # MANDATORY. A list of Antora navigation files. You probably don't need to
 # change this field. See https://docs.antora.org/antora/1.0/navigation/
