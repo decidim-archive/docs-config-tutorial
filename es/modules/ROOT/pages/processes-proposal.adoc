@@ -15,7 +15,7 @@ El componente de propuestas permite activar la posibilidad de que las participan
 
 == Activación y configuración de propuestas
 
-* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[PROPUESTAS]].
+* En el menú menu:Procesos[Componentes], en el desplegable btn:[AGREGAR COMPONENTE], selecciona btn:[PROPUESTAS].
 +
 image::processes-proposal-01.png[]
 
