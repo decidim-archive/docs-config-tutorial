@@ -1,4 +1,4 @@
-= Proceso Participativo
+= Nuevo proceso
 :experimental:
 :icons: font
 :page-partial:
@@ -12,13 +12,11 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
-.Proceso
-****
-Un proceso participativo es un espacio de participación dividido en fases que puede incorporar diferentes componentes. +
-Aquí aprenderás a crear, configurar y publicar un proceso.
-****
+En esta sección aprenderás a crear, configurar y publicar un proceso.
 
-== Primeros pasos
+****
+Un *proceso participativo* es un espacio de participación dividido en fases que puede incorporar diferentes componentes.
+****
 
 * Inicia sesión.
 * Entra en el Tablero de administración:
@@ -46,6 +44,8 @@ TIP: El icono del ojo te lleva a previsualizar el proceso. Si te das cuenta, el 
 
 * Clica btn:[Publicar] para hacer accesible el proceso en la plataforma.
 
+* A tener también en cuenta:
++
 TIP: Como administrador en tu propia plataforma, tendrás también la opción de eliminar el proceso mediante el botón btn:[Borrar].
-
++
 NOTE: Los procesos se han de publicar una vez estén completamente creados, con todos los elementos y componentes necesarios; ya que estos se pueden activar y desactivar por fases como veremos en el siguiente apartado. También es importante haber definido previamente las fechas del proceso y las fechas en las fases.

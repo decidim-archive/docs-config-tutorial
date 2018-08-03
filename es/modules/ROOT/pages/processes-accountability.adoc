@@ -1,4 +1,4 @@
-= Seguimiento
+= Seguimiento de propuestas admitidas
 :experimental:
 :icons: font
 :page-partial:
@@ -11,12 +11,13 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-.Seguimiento
 ****
-Activa resultados como administrador e importa las propuestas admitidas.
+El componente de seguimiento permite crear, para cada propuesta admitida, uno o varios resultados.
+
+Un *resultado* es un proyecto que puede constar de diferentes *estados* de ejecución y facilita que la comunidad pueda realizar el seguimiento de la implementación de las propuestas.
 ****
 
-* En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[SEGUIMIENTO]].
+* En el menú menu:Procesos[Componentes], en el desplegable btn:[AGREGAR COMPONENTE], selecciona btn:[SEGUIMIENTO].
 +
 image::processes-results-01.png[]
 
@@ -26,10 +27,13 @@ image::processes-results-01.png[]
 +
 image::processes-results-02.png[]
 
-* Una vez generados los Resultados, desde el menú menu:Procesos[Componentes] clica en el botón btn:[Publicar].
+* Clica el botón btn:[ESTADOS] y crea varios estados de ejecución para los resultados de este proceso participativo.
+Algunos ejemplos de estados pueden ser: "No iniciado", "Proyecto licitado", "En ejecución", "Realizado", etcétera.
+
+* Una vez generados los resultados, desde el menú menu:Procesos[Componentes] clica en el botón btn:[Publicar].
 +
 image::processes-results-03.png[]
 
-TIP: Si vas a la pantalla desde el punto de vista del participante, podrás encontrar la siguiente imagen y navegar por ella.
-
+* Si vas a la pantalla desde el punto de vista del participante, podrás encontrar la siguiente imagen y navegar por ella.
++
 image::processes-results-04.png[]

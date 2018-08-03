@@ -11,9 +11,9 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-.Encuentros
+
 ****
-Añade la funcionalidad Encuentros para generar un encuentro presencial geolocalizado.
+El componente de *encuentros* permite añadir funcionalidad para generar encuentros presenciales geolocalizados.
 ****
 
 * En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[ENCUENTROS]].
@@ -26,9 +26,10 @@ image::processes-meetings-01.png[]
 +
 image::processes-meetings-03.png[]
 
-IMPORTANT: Es necesario que la dirección sea real porque geolocaliza el encuentro y ofrece un mapa exacto de dónde es. El campo "Ubicación" se refiere al nombre concreto del lugar o edificio. Por ejemplo "Fàbrica de Creació Fabra i Coats".
-
+* Geolocaliza el encuentro.
++
+IMPORTANT: Es necesario que la dirección sea real porque geolocaliza el encuentro y ofrece un mapa exacto de dónde es. El campo "Ubicación" se refiere al nombre concreto del lugar o edificio. Por ejemplo "Fàbrica de Creació, Fabra i Coats".
++
 image::processes-meetings-04.png[]
-
-TIP: En el encuentro tienes una serie de "acciones" para ejecutar si es necesario:
-Previsualizar, duplicar, editar, inscripciones, acta, orden del día, cerrar, carpetas, archivos adjuntos, permisos y borrar.
++
+TIP: En el encuentro tienes una serie de *acciones* para ejecutar si es necesario: previsualizar, duplicar, editar, inscripciones, acta, orden del día, cerrar, carpetas, archivos adjuntos, permisos y borrar.

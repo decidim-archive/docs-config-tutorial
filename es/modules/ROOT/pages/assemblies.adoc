@@ -11,9 +11,10 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-.Asambleas u Órganos
 ****
-Las Asambleas es un espacio que ofrece la posibilidad de constituir órganos o grupos de decisión que se reúnen periódicamente, detallando su composición, listando y geolocalizando sus reuniones, y permitiendo la participación en las mismas.
+Las *asambleas* (también llamadas *órganos* en algunas instancias de Decidim) son un espacio que ofrece la posibilidad de constituir grupos de decisión que se reúnen periódicamente, detallando su composición, listando y geolocalizando sus reuniones, y permitiendo la participación en las mismas.
+
+WARNING: En algunos contextos el término _asamblea_ también puede referirse a una sola de las reuniones realizadas por el grupo de decisión.
 ****
 
 * Inicia sesión.

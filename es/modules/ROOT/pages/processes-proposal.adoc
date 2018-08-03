@@ -11,10 +11,9 @@ endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
-.Componente de propuestas
-****
-Crea y configura la funcionalidad de Propuestas. Crea propuestas como administrador.
-****
+El componente de propuestas permite activar la posibilidad de que las participantes creen propuestas.
+
+== Activación y configuración de propuestas
 
 * En el menú menu:Procesos[Componentes, en el desplegable AGREGAR COMPONENTE, selecciona btn:[PROPUESTAS]].
 +
@@ -23,7 +22,7 @@ image::processes-proposal-01.png[]
 * Rellena los campos y habilita respuesta oficial a propuestas habilitadas y propuestas oficiales habilitadas. +
 +
 image::processes-proposal-02.png[]
-
++
 TIP: Además, verás que tienes la posibilidad de configurar cada fase.
 
 * Clica en el botón btn:[Agregar componente].
@@ -32,30 +31,39 @@ TIP: Además, verás que tienes la posibilidad de configurar cada fase.
 +
 image::processes-proposal-03.png[]
 
-TIP: Puedes generar avisos a través de configuración.  Una vez se ha activado esta funcionalidad y haya comenzado la fase de propuestas no se ha de desactivar en ningún momento del proceso.
+== Creación de propuestas
 
-
-.Creación de propuestas
 ****
-Crea propuestas como administrador y como participante.
+Una vez configurado el componente de propuestas, se pueden crear *propuestas*:
+
+* Como una participante normal.
+La participante que realice la propuesta aparecerá como autora de la misma.
+
+* Desde el panel de administración.
+En este caso no aparecerá ningún autor concreto, sino que constará como *propuesta oficial*.
 ****
 
 * Desde el menú menu:Procesos[Componentes] clica en el componente btn:[Propuestas].
 +
 image::processes-proposal-04.png[]
 
-NOTE: Probablemente tengas una pantalla similar a la siguiente en la que no puedes crear propuestas. +
+* Probablemente tengas una pantalla similar a la siguiente en la que no puedes crear propuestas.
++
 Fíjate en qué fase estás (arriba a la derecha), si has desactivado la creación de propuestas en las fases previas, y no has cambiado de fase, estará desactivada la creación. Así es como se mostrará.
-
++
 image::processes-proposal-05.png[]
 
 * Accede al panel de administrador.
 
 * Desde el menú menu:Procesos[Fases del proceso] activa la fase de Creación de Propuestas.
++
+[TIP]
+--
+Una vez estés en la fase correcta podrás acceder al espacio y generar las propuestas. (Si tienes dudas, puedes volver al apartado _Fases_).
 
-TIP: Una vez estés en la fase correcta podrás acceder al espacio y generar las propuestas. (Si tienes dudas, puedes volver al apartado _Fases_). +
 Si estás en la fase correcta y aún así no puedes hacer propuestas, revisa en configurar la funcionalidad para ver si está activada "Habilitar creación de propuestas" en la fase correspondiente.
-
+--
++
 image::processes-proposal-06.png[]
 
 * Para crear una Nueva Propuesta desde el tablero de administración ve al menú menu:Procesos[Propuestas] y clica en el botón btn:[NUEVA PROPUESTA].
@@ -72,9 +80,10 @@ image::processes-proposal-09.png[]
 +
 image::processes-proposal-07.png[]
 
-.Apoyar propuestas (votar)
+== Adherirse a propuestas (apoyar, votar)
+
 ****
-Vota una o varias de las propuestas.
+Las propuestas pueden recibir *adhesiones*, una vez esta funcionalidad está habilitada.
 ****
 
 * Desde el menú menu:Procesos[Fases del proceso] activa la fase Selección de Propuestas.

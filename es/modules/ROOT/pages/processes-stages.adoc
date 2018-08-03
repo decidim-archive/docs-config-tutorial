@@ -12,8 +12,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
-.Fases de un proceso:
 ****
+Un proceso participativo consta de las siguientes *fases*:
+
 * Informar y convocar a la ciudadanía.
 * Generar un diagnóstico.
 * Generar propuestas.
@@ -21,9 +22,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 * Publicar e informar de los resultados.
 * Evaluar el proceso participativo.
 * Generar un seguimiento de las actividades y acciones.
-****
 
-NOTE: Las fases, sumándole la "fase 0" de planificación y diseño del mismo (que no se mostraría, pero es importante tener en cuenta), son las que podríamos enumerar en un proceso participativo.
+NOTE: Habría que sumar una "fase 0" de planificación y diseño del mismo,que no se mostraría pero es importante tener en cuenta.
+****
 
 * Entra en el tablero de administración.
 

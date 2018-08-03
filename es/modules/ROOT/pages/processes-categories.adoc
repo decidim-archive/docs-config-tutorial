@@ -12,9 +12,8 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 // Start writing here
 
-.Categorías
 ****
-Es una herramienta para organizar tanto los debates como las propuestas que se van a recoger.
+Las *categorías* son una herramienta para organizar tanto los debates como las propuestas que se van a recoger.
 
 IMPORTANT: Es esencial que haya categorías para poder iniciar un proceso.
 ****

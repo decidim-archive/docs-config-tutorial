@@ -1,4 +1,4 @@
-= Procesos
+= Procesos participativos
 :experimental:
 :icons: font
 :page-partial:
