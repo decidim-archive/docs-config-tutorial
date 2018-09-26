@@ -3,11 +3,11 @@
 
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url:
+:_public_repo_url: https://github.com/decidim/docs-config-tutorial.git
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Decidim's Configuration Tutorial
 
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
@@ -24,7 +24,7 @@
 
 // MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
-:authors: Decidim Team
+:authors: Mariola Ruiz, Joan Olivé
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -32,11 +32,11 @@
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Núria Alonso, María Becedas
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_proofreaders:
+:_proofreaders: Juan Linares, Guillem Marpons
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -44,20 +44,20 @@
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: This document is a practical guide to set up a Decidim instance with the basic elements to be operational, including: processes, assemblies, and initiatives. It does not pretend to be an exhaustive reference for all the functionalities of Decidim, and it does not include the installation of the software.
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: decidim, participatory democracy, free software, open source, cities, organizations
+:keywords: decidim, participatory democracy, free software, open source, cities, organizations, administration, startup guide
 
 // OPTIONAL. Document's history. Do not intercalate empty lines.
-:_dochistory:
+:_dochistory: Initially, María Becedas from Ethicoo http://curso.localret.codegram.com/[imparted a course on administering Decidim]: Becedas, M.A. ethicoo.org (2018), Proceso formativo para el diseño de procesos participativos con Decidim. Núria Alonso then adapted those materials for a course imparted to municipalities of the Diputació de Barcelona. Finally, Mariola Ruiz and Joan Olivé rewrote the materiarials in Asciidoc and added updated screenshots.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
 // {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
-:_citation: {authors}, {docyear}, {doctitle}
+:_citation: {authors} ({docyear}), {doctitle}, v{revnumber}
 
 // MANDATORY. Copyright ownership.
 :_copyleft: Barcelona City Council and the authors of the text
