@@ -53,7 +53,7 @@ include::attributes.adoc[]
 :keywords: decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones, administración, guía de inicio
 
 // OPTIONAL. Document's history.
-:_dochistory: Inicialmente María Becedas, de Ethicoo, impartió un curso de administración de Decidim. Núria Alonso adaptó los materiales del curso inicial para un curso impartido a municipios de la Diputación de Barcelona. Finalmente Mariola Ruiz y Joan Olivé reescribieron los materiales en Asciidoc y con capturas de pantalla actualizadas.
+:_dochistory: Inicialmente, María Becedas, de Ethicoo, impartió un http://curso.localret.codegram.com/[curso de administración de Decidim]: Becedas, M.A. ethicoo.org (2018), Proceso formativo para el diseño de procesos participativos con Decidim. Núria Alonso adaptó los materiales del curso inicial para un curso impartido a municipios de la Diputación de Barcelona. Finalmente, Mariola Ruiz y Joan Olivé reescribieron los contenidos en Asciidoc y con capturas de pantalla actualizadas.
 
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
