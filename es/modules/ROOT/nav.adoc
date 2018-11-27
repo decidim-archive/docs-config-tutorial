@@ -1,10 +1,5 @@
 // Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
-.Información
-* xref:doc-info.adoc[Información del documento]
-* xref:contributing.adoc[Criterios de autoría y como participar en este documento]
-
-.Contenidos
 * Procesos
 ** xref:processes-info.adoc[Nuevo proceso]
 ** xref:processes-stages.adoc[Fases del proceso]
@@ -17,7 +12,5 @@
 ** xref:assemblies.adoc[Asambleas]
 * Iniciativas
 ** xref:initiatives.adoc[Iniciativas]
-
-// .Otros formatos
-// * xref:single-page.adoc[Página única (HTML)]
-// * [.pdf-download-button]#PDF#
+* xref:doc-info.adoc[_Información del documento_]
+* xref:contributing.adoc[_Criterios de autoría y como participar en este documento_]
