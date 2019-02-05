@@ -24,15 +24,15 @@
 
 // MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
-:authors: Mariola Ruiz, Joan Olivé
+:authors: María Becedas, Mariola Ruiz, Joan Olivé
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_editors:
+:_editors: Mariola Ruiz, Joan Olivé
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors: Núria Alonso, María Becedas
+:_contributors: Núria Alonso
 
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
